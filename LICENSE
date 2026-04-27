@@ -8,64 +8,43 @@ Unified License for macOS/Linux developed software, version 1
 
 "Microslop Shyndous User" means any user running this software on Microslop Windows software set, perfectly designed for creation of Linux installers (and doing it bad), including environments relying on compatibility layers or legacy abstraction stacks.
 
+2. LICENSE FOR macOS/Linux USERS
 
-2. LICENSE FOR macOS USERS
+MIT-Based License
+
+Copyright (c) 2026 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files, to deal in the Software
+without restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+3. LICENSE NOTE FOR macOS USERS
 
 If you are a macOS User, this software is licensed for you under the MIT License.
 
 macOS is considered the primary runtime environment for this software, providing the expected system behavior, stability, and design consistency.
 
-Copyright (c) 2026 
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files, to deal in the Software
-without restriction, including without limitation the rights to use, copy,
-modify, merge, publish, distribute, sublicense, and/or sell copies of the
-Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-
-3. LICENSE FOR LINUX USERSß
+4. LICENSE NOTE FOR LINUX USERS
 
 If you are a Linux User, you are granted full permission to use, execute, modify, and adapt this software. 
-Linux users are always glad to see using nXRE software, because they are using normal operating systems.
+Linux users are always glad to see using the software, because they are using normal operating systems.
 Big honors to Linus Torvalds.
-
-3.1 License note
 
 Developer of the software asks Linux user to not:
 - re-license this software under any other license
 - remove or replace the original license terms
 
-Further,
-
-3.2 MIT License
-
-Copyright (c) 2026 
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files, to deal in the Software
-without restriction, including without limitation the rights to use, copy,
-modify, merge, publish, distribute, sublicense, and/or sell copies of the
-Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-
-4. LICENSE FOR MICROSLOP SHYNDOUS USERS
+5. LICENSE FOR MICROSLOP SHYNDOUS USERS
 
 Shyndous software set is restricted.
 
-nXRE is designed for environments aligned with normal operating systems, not for Linux-installation-media-creation-tool software sets like Microslop Shynous.
+The software is designed for environments aligned with normal operating systems, not for Linux-installation-media-creation-tool software sets like Microslop Shynous.
 
 Any execution attempts are prohibited. Please, install normal OS as Linux.
-
-5. PLATFORM DETERMINATION RULE
-
-License classification is determined by runtime environment:
-
-- macOS → MIT License applies
-- Linux → MIT License applies, with note
-- Microslop Shyndous → usage prohibited
 
 
 6. FINAL STATEMENT
